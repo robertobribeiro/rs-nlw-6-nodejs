@@ -13,11 +13,11 @@
 
   [X] It is not possible to add a tag without a name.
 
-  [] Only admin users can manage tags.
+  [X] Only admin users can manage tags.
 
 - Compliments management
-  [] A user can not add a compliment to herself/himself.
+  [X] A user can not add a compliment to herself/himself.
   
-  [] It is not possible to add a compliment to an invalid user.
+  [X] It is not possible to add a compliment to an invalid user.
 
-  [] User must be authenticated on the application.
+  [X] User must be authenticated on the application.
